@@ -1,3 +1,3 @@
 # FreeCodeCamp-JavaScriptAlgorithmsAndDataStructures-RomanNumeralConverter
 
-![Picture](RomanNumeralsConvertor.png)
+![Picturev2](RomanNumeralsConvertor.png)
